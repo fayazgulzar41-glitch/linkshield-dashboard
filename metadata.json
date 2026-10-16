@@ -1,0 +1,6 @@
+{
+  "name": "LinkShield - Smartlink URL Shortener",
+  "description": "Modern URL shortener dashboard with 5-second secure splash page redirects, custom domains, and GEO/device analytics for money links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
